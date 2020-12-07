@@ -1,6 +1,6 @@
 # TMU-GFM-Dataset
 A dataset for GEC metrics with manual evaluations of grammaticality, fluency, and meaning preservation for system outputs.  
-More detail about the creation of the dataset can be found in [this paper](https://www.aclweb.org/anthology/2020.coling-main.573.pdf).
+More detail about the creation of the dataset can be found in [Yoshimura et al. (2020)](https://www.aclweb.org/anthology/2020.coling-main.573.pdf).
 
 # File format
 The are 9 columns in the tmu-gfm-dataset.
